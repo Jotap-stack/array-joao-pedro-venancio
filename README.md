@@ -2,9 +2,9 @@
 
 
 <ul>
-  <li>criei uma lista com 5 elementos chamada 'list' <br/> <li/>
-  <li>usei o print para exibir o primeiro elemento, o terceiro e o ultimo <br/> <li/>
-  <li>utilizei o if e else para imformar se carla esta na lista ou nao <br/> <li/>
+  <li>criei uma lista com 5 elementos chamada 'list' <li/> <br/> 
+  <li>usei o print para exibir o primeiro elemento, o terceiro e o ultimo <li/> <br/> 
+  <li>utilizei o if e else para imformar se carla esta na lista ou nao <li/> <br/> 
 </ul>
 
 
