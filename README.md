@@ -8,12 +8,12 @@ utilizei o if e else para imformar se carla esta na lista ou nao
 
 <hr/>
 
-A SAIDA DO CODIGO FOI: 
+A SAIDA DO CODIGO FOI: <br/>
 
-O Primeiro elemneto da lista: 
-jose
-O Terceiro elemneto da lista: 
-carla
-O Ultimo elemneto da lista: 
-carlos
-Carla esta na lista
+O Primeiro elemneto da lista: <br/>
+jose <br/>
+O Terceiro elemneto da lista: <br/>
+carla <br/>
+O Ultimo elemneto da lista: <br/>
+carlos <br/>
+Carla esta na lista <br/>
