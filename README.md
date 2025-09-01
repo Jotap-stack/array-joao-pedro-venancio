@@ -6,7 +6,10 @@
   <li>usei o print para exibir o primeiro elemento, o terceiro e o ultimo <li/> <br/> 
   <li>utilizei o if e else para imformar se carla esta na lista ou nao <li/> <br/> 
 </ul>
+<hr/>
 
+PARA RODAR O CODIGO: <br/>
+baixe o arquivo main.py e rode no vscode
 
 <hr/>
 
