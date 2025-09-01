@@ -2,9 +2,9 @@
 
 
 
-criei uma lista com 5 elementos chamada 'list'
-usei o print para exibir o primeiro elemento, o terceiro e o ultimo
-utilizei o if e else para imformar se carla esta na lista ou nao
+criei uma lista com 5 elementos chamada 'list' <br/>
+usei o print para exibir o primeiro elemento, o terceiro e o ultimo <br/>
+utilizei o if e else para imformar se carla esta na lista ou nao <br/>
 
 <hr/>
 
