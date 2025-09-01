@@ -6,8 +6,9 @@ criei uma lista com 5 elementos chamada 'list'
 usei o print para exibir o primeiro elemento, o terceiro e o ultimo
 utilizei o if e else para imformar se carla esta na lista ou nao
 
+<hr/>
 
-A SAIDA DO CODIGO FOI:
+A SAIDA DO CODIGO FOI: 
 
 O Primeiro elemneto da lista: 
 jose
